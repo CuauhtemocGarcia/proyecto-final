@@ -1,0 +1,12 @@
+/* src/styles.css */
+
+body {
+    background: url('https://images.unsplash.com/photo-1542421814-623c866aedd0') no-repeat center center fixed;
+    background-size: cover;
+    color: #000000;
+    font-family: 'Arial', sans-serif;
+    height: 100vh; /* Ajuste para asegurar que el fondo cubra toda la pantalla */
+    margin: 0; /* Ajuste para eliminar el margen predeterminado del body */
+    overflow-x: hidden; /* Para evitar barras de desplazamiento horizontales */
+  }
+  
